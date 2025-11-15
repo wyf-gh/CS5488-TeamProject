@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sat Nov 08 12:47:14 HKT 2025:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.1.1 - (1458268): instance a816c00e-019a-61ca-383f-000006189018 
+on database directory /home/bitnami/metastore_db with class loader sun.misc.Launcher$AppClassLoader@6d03e736 
+Loaded from file:/usr/local/apache-hive-1.0.0-bin/lib/derby-10.10.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_40-b26
+user.dir=/media/sf_big_data/clean_data
+os.name=Linux
+os.arch=amd64
+os.version=3.13.0-36-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
