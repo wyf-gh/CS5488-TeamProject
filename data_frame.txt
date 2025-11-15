@@ -1,0 +1,55 @@
+宏观经济与汇率数据阅读文档
+一、宏观经济数据（macro_economic_data 目录）
+1. 数据分类与意义
+涵盖美国、英国、日本、中国四国的核心宏观指标，用于分析经济增长、通胀、贸易、就业等基本面对汇率的驱动逻辑：
+GDP 类：反映经济总量与增长动能（如US_Real_GDP_Quarterly_Billions_USD.csv是美国季度实际 GDP，衡量经济规模）。
+CPI 类：衡量通胀水平（如US_CPI_YoY_Growth_Rate_Monthly.csv是美国 CPI 同比增速，反映物价上涨压力）。
+贸易类：体现进出口规模（如US_Exports_Quarterly.csv是美国季度出口额，反映外需对经济的贡献）。
+失业率类：反映劳动力市场健康度（如US_Unemployment_Rate_Monthly.csv是美国月度失业率，体现就业压力）。
+其他类：包括工业生产、消费者信心、政府债务、零售销售、房价指数等，从不同维度刻画经济景气度。
+2. 数据类型与格式
+数据类型：时间序列数据，包含 ** 日期（date）和数值（value）** 两列核心信息。
+格式：CSV 文件，命名规则为{指标名称}_{FRED序列ID}.csv（如US_Real_GDP_Quarterly_Billions_USD_GDPC1.csv）。
+示例结构：
+date	value
+2020-01-01	21433.20
+2020-04-01	20357.90
+
+二、央行利率与外汇储备数据（central_bank_data 目录）
+1. 央行利率数据
+数据意义
+记录美国、英国、日本、中国、欧元区央行的货币政策利率及工具利率，是判断货币政策取向（宽松 / 紧缩）、计算利差以分析汇率短期波动的核心依据：
+美国：包含联邦基金有效利率、联邦基金目标利率等（如US_Effective_Federal_Funds_Rate_Daily_EFFR.csv），反映美联储货币政策松紧度。
+英国：如UK_Deposit_Interest_Rate_Monthly_IR3TIB01GBM156N.csv，体现英格兰银行存款利率政策，影响英镑资产吸引力。
+日本：Japan_Short-Term_Interest_Rate_Monthly_IRSTCI01JPM156N.csv反映日本短期政策利率，是日元汇率的关键政策变量。
+中国：China_Deposit_Interest_Rate_Monthly_INTDSRCNM193N.csv体现国内存款利率水平，反映货币政策基调。
+欧元区：包含欧洲央行存款便利利率（Eurozone_ECB_Deposit_Facility_Rate_Daily_ECBDFR.csv）、主要再融资利率（Eurozone_ECB_Main_Refinancing_Rate_Daily_ECBMRRFR.csv），刻画欧央行政策方向。
+数据类型与格式
+数据类型：时间序列数据，包含日期（date）和利率值（rate/value），频率涵盖日度、月度（因央行政策发布节奏差异）。
+格式：CSV 文件，命名规则为{国家/地区}_{利率类型}_{频率}_{序列标识}.csv（如US_Effective_Federal_Funds_Rate_Daily_EFFR.csv）。
+示例结构：
+date	rate
+2020-01-01	1.55
+2020-01-02	1.50
+2. 外汇储备数据
+数据意义
+记录美国、英国、日本、中国、欧元区的月度外汇储备规模，反映一国 / 地区干预外汇市场、维持汇率稳定的能力，也是国际支付能力的重要衡量指标：
+外汇储备上升通常对本币汇率形成潜在支撑（央行可通过抛售外汇稳定本币）；储备持续下降可能暗示本币承压。
+数据类型与格式
+数据类型：月度时间序列数据，包含日期（date）和储备规模（value，单位多为百万美元或等值货币单位）。
+格式：CSV 文件，命名规则为{国家/地区}_Foreign_Exchange_Reserves_Monthly_{序列标识}.csv（如Japan_Foreign_Exchange_Reserves_Monthly_TRESEGJPM052N.csv）。
+示例结构：
+date	value
+2020-01-01	1301939.81
+2020-02-01	1318087.86
+
+三、汇率数据（exchange_rate_data 目录）
+1. 数据意义
+记录 ** 英镑兑美元（GBPUSD）、美元兑人民币（USDCNY）、美元兑日元（USDJPY）** 的日度价格波动，反映货币间的相对价值，是宏观经济与政策的 “结果体现”。
+2. 数据类型与格式
+数据类型：日度时间序列数据，包含开盘价（Open）、最高价（High）、最低价（Low）、收盘价（Close），完整刻画单日价格波动。
+格式：CSV 文件，命名规则为{货币对}_时间范围.csv（如GBPUSD=X_20200101_20241231.csv）。
+示例结构：
+Date	Open	High	Low	Close
+2020-01-01	1.3254	1.3271	1.3219	1.3245
+2020-01-02	1.3250	1.3268	1.3125	1.3200
