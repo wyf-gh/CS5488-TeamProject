@@ -1,0 +1,745 @@
+Region,Category,Year,Quarter,Value
+China,CPI (All Items),2020,1,112.9333
+China,CPI (All Items),2020,2,110.7000
+China,CPI (All Items),2020,3,111.0667
+China,CPI (All Items),2020,4,111.2000
+China,CPI (All Items),2021,1,112.8103
+China,CPI (All Items),2021,2,112.1038
+China,CPI (All Items),2021,3,112.1782
+China,CPI (All Items),2021,4,113.1821
+China,CPI (All Items),2022,1,114.1116
+China,CPI (All Items),2022,2,114.6322
+China,CPI (All Items),2022,3,115.1528
+China,CPI (All Items),2022,4,115.2643
+China,CPI (All Items),2023,1,115.5246
+China,CPI (All Items),2023,2,114.7437
+China,CPI (All Items),2023,3,115.0784
+China,CPI (All Items),2023,4,114.8925
+China,CPI (All Items),2024,1,115.4874
+China,CPI (All Items),2024,2,115.0040
+China,CPI (All Items),2024,3,115.6361
+China,CPI (All Items),2024,4,115.1156
+China,CPI YoY Growth Rate,2020,1,4.9667
+China,CPI YoY Growth Rate,2020,2,2.7333
+China,CPI YoY Growth Rate,2020,3,2.2667
+China,CPI YoY Growth Rate,2020,4,0.0667
+China,CPI YoY Growth Rate,2021,1,-0.0333
+China,CPI YoY Growth Rate,2021,2,1.1000
+China,CPI YoY Growth Rate,2021,3,0.8333
+China,CPI YoY Growth Rate,2021,4,1.7667
+China,CPI YoY Growth Rate,2022,1,1.1000
+China,CPI YoY Growth Rate,2022,2,2.2333
+China,CPI YoY Growth Rate,2022,3,2.6667
+China,CPI YoY Growth Rate,2022,4,1.8333
+China,CPI YoY Growth Rate,2023,1,1.2667
+China,CPI YoY Growth Rate,2023,2,0.1000
+China,CPI YoY Growth Rate,2023,3,-0.0667
+China,CPI YoY Growth Rate,2023,4,-0.3333
+China,CPI YoY Growth Rate,2024,1,-0.0000
+China,CPI YoY Growth Rate,2024,2,0.2667
+China,CPI YoY Growth Rate,2024,3,0.5000
+China,CPI YoY Growth Rate,2024,4,0.2000
+China,Consumer Confidence Index,2020,1,103.5694
+China,Consumer Confidence Index,2020,2,101.7310
+China,Consumer Confidence Index,2020,3,102.2803
+China,Consumer Confidence Index,2020,4,103.7240
+China,Consumer Confidence Index,2021,1,104.0798
+China,Consumer Confidence Index,2021,2,103.4289
+China,Consumer Confidence Index,2021,3,102.7658
+China,Consumer Confidence Index,2021,4,103.1669
+China,Consumer Confidence Index,2022,1,101.4613
+China,Consumer Confidence Index,2022,2,94.3464
+China,Consumer Confidence Index,2022,3,93.2142
+China,Consumer Confidence Index,2022,4,93.4371
+China,Consumer Confidence Index,2023,1,94.8270
+China,Consumer Confidence Index,2023,2,93.6480
+China,Consumer Confidence Index,2023,3,93.1947
+China,Consumer Confidence Index,2023,4,93.4176
+China,Foreign Trade Exports,2020,1,17.7305
+China,Foreign Trade Exports,2020,2,17.9161
+China,Foreign Trade Exports,2020,3,17.7305
+China,Foreign Trade Exports,2020,4,16.3703
+China,Foreign Trade Exports,2021,1,20.9918
+China,Foreign Trade Exports,2021,2,18.6893
+China,Foreign Trade Exports,2021,3,18.6409
+China,Foreign Trade Exports,2021,4,17.7367
+China,Foreign Trade Exports,2022,1,21.5745
+China,Foreign Trade Exports,2022,2,20.6919
+China,Foreign Trade Exports,2022,3,20.3462
+China,Foreign Trade Exports,2022,4,18.1338
+China,Foreign Trade Exports,2023,1,22.2504
+China,Foreign Trade Exports,2023,2,19.8688
+China,Foreign Trade Exports,2023,3,18.5648
+China,Foreign Trade Imports,2020,1,16.5988
+China,Foreign Trade Imports,2020,2,13.6065
+China,Foreign Trade Imports,2020,3,13.9243
+China,Foreign Trade Imports,2020,4,12.5283
+China,Foreign Trade Imports,2021,1,16.4394
+China,Foreign Trade Imports,2021,2,15.5041
+China,Foreign Trade Imports,2021,3,15.0295
+China,Foreign Trade Imports,2021,4,13.7587
+China,Foreign Trade Imports,2022,1,16.3863
+China,Foreign Trade Imports,2022,2,15.5710
+China,Foreign Trade Imports,2022,3,15.0904
+China,Foreign Trade Imports,2022,4,14.1015
+China,Foreign Trade Imports,2023,1,15.8225
+China,Foreign Trade Imports,2023,2,14.6283
+China,Foreign Trade Imports,2023,3,14.0452
+China,House Price Index,2020,1,107.1595
+China,House Price Index,2020,2,109.9375
+China,House Price Index,2020,3,110.3074
+China,House Price Index,2020,4,111.2144
+China,House Price Index,2021,1,110.5531
+China,House Price Index,2021,2,112.6308
+China,House Price Index,2021,3,112.9908
+China,House Price Index,2021,4,111.0876
+China,House Price Index,2022,1,109.3304
+China,House Price Index,2022,2,107.8288
+China,House Price Index,2022,3,106.4509
+China,House Price Index,2022,4,105.0432
+China,House Price Index,2023,1,104.3427
+China,House Price Index,2023,2,104.8471
+China,House Price Index,2023,3,103.1349
+China,House Price Index,2023,4,101.4751
+China,House Price Index,2024,1,98.9629
+China,House Price Index,2024,2,96.8513
+China,House Price Index,2024,3,93.8230
+China,House Price Index,2024,4,92.5967
+China,Industrial Production Index,2020,1,94.9412
+China,Industrial Production Index,2020,2,98.9504
+China,Industrial Production Index,2020,3,97.5135
+China,Industrial Production Index,2020,4,107.7361
+China,Industrial Production Index,2021,1,112.6174
+China,Industrial Production Index,2021,2,118.8062
+China,Industrial Production Index,2021,3,111.5168
+China,Industrial Production Index,2021,4,106.0999
+China,Industrial Production Index,2022,1,98.1862
+China,Industrial Production Index,2022,2,89.9751
+China,Industrial Production Index,2022,3,93.4118
+China,Industrial Production Index,2022,4,95.7522
+China,Industrial Production Index,2023,1,111.5709
+China,Industrial Production Index,2023,2,108.7139
+China,Industrial Production Index,2023,3,107.7921
+China,Industrial Production Index,2023,4,105.3477
+China,Industrial Production Index,2024,1,97.0853
+China,Real GDP,2020,1,"103,486,750.0000"
+China,Real GDP,2021,1,"112,355,970.0000"
+China,Real GDP,2022,1,"115,877,050.0000"
+China,Real GDP,2023,1,"122,152,940.0000"
+China,Real GDP,2024,1,"128,232,080.0000"
+China,Real GDP Growth Rate,2020,1,2.3000
+China,Real GDP Growth Rate,2021,1,8.6000
+China,Real GDP Growth Rate,2022,1,3.1000
+China,Real GDP Growth Rate,2023,1,5.4000
+China,Real GDP Growth Rate,2024,1,5.0000
+China,Unemployment Rate,2020,1,12.6780
+China,Unemployment Rate,2021,1,12.4220
+China,Unemployment Rate,2022,1,14.8110
+China,Unemployment Rate,2023,1,15.7450
+China,Unemployment Rate,2024,1,15.2260
+Japan,CPI (All Items),2020,1,102.1804
+Japan,CPI (All Items),2020,2,101.8750
+Japan,CPI (All Items),2020,3,101.8071
+Japan,CPI (All Items),2020,4,101.3320
+Japan,CPI (All Items),2021,1,101.6374
+Japan,CPI (All Items),2021,2,101.1283
+Japan,CPI YoY Growth Rate,2020,1,0.5000
+Japan,CPI YoY Growth Rate,2020,2,0.1000
+Japan,CPI YoY Growth Rate,2020,3,0.1667
+Japan,CPI YoY Growth Rate,2020,4,-0.8333
+Japan,CPI YoY Growth Rate,2021,1,-0.5333
+Japan,CPI YoY Growth Rate,2021,2,-0.8000
+Japan,Consumer Confidence Index,2020,1,98.0800
+Japan,Consumer Confidence Index,2020,2,95.6860
+Japan,Consumer Confidence Index,2020,3,96.8877
+Japan,Consumer Confidence Index,2020,4,97.4413
+Japan,Consumer Confidence Index,2021,1,97.6957
+Japan,Consumer Confidence Index,2021,2,98.3680
+Japan,Consumer Confidence Index,2021,3,98.8499
+Japan,Consumer Confidence Index,2021,4,99.1412
+Japan,Consumer Confidence Index,2022,1,98.2026
+Japan,Consumer Confidence Index,2022,2,97.3728
+Japan,Consumer Confidence Index,2022,3,97.0643
+Japan,Consumer Confidence Index,2022,4,96.8970
+Japan,Consumer Confidence Index,2023,1,97.4122
+Japan,Consumer Confidence Index,2023,2,98.3620
+Japan,Consumer Confidence Index,2023,3,98.4575
+Japan,Consumer Confidence Index,2023,4,98.5169
+Japan,Consumer Confidence Index,2024,1,98.9469
+Japan,Foreign Trade Exports,2020,1,13.3381
+Japan,Foreign Trade Exports,2020,2,11.1991
+Japan,Foreign Trade Exports,2020,3,12.3261
+Japan,Foreign Trade Exports,2020,4,13.5524
+Japan,Foreign Trade Exports,2021,1,14.4457
+Japan,Foreign Trade Exports,2021,2,15.0646
+Japan,Foreign Trade Exports,2021,3,15.0248
+Japan,Foreign Trade Exports,2021,4,15.4584
+Japan,Foreign Trade Exports,2022,1,16.5413
+Japan,Foreign Trade Exports,2022,2,17.2665
+Japan,Foreign Trade Exports,2022,3,18.1764
+Japan,Foreign Trade Exports,2022,4,17.9924
+Japan,Foreign Trade Exports,2023,1,16.5867
+Japan,Foreign Trade Exports,2023,2,16.5049
+Japan,Foreign Trade Exports,2023,3,17.2373
+Japan,Foreign Trade Imports,2020,1,13.1080
+Japan,Foreign Trade Imports,2020,2,13.1061
+Japan,Foreign Trade Imports,2020,3,11.7501
+Japan,Foreign Trade Imports,2020,4,12.1845
+Japan,Foreign Trade Imports,2021,1,13.8363
+Japan,Foreign Trade Imports,2021,2,15.1066
+Japan,Foreign Trade Imports,2021,3,15.7287
+Japan,Foreign Trade Imports,2021,4,16.5763
+Japan,Foreign Trade Imports,2022,1,18.6658
+Japan,Foreign Trade Imports,2022,2,21.0853
+Japan,Foreign Trade Imports,2022,3,22.8904
+Japan,Foreign Trade Imports,2022,4,22.2045
+Japan,Foreign Trade Imports,2023,1,19.4668
+Japan,Foreign Trade Imports,2023,2,18.1003
+Japan,Foreign Trade Imports,2023,3,18.2877
+Japan,Government Debt to GDP Ratio,2020,1,215.8204
+Japan,Government Debt to GDP Ratio,2021,1,216.1350
+Japan,Government Debt to GDP Ratio,2022,1,215.9064
+Japan,House Price Index,2020,1,-1.0956
+Japan,House Price Index,2020,2,-0.8330
+Japan,House Price Index,2020,3,-0.1508
+Japan,House Price Index,2020,4,2.5223
+Japan,House Price Index,2021,1,3.8961
+Japan,House Price Index,2021,2,6.2476
+Japan,House Price Index,2021,3,8.3252
+Japan,House Price Index,2021,4,6.2902
+Japan,House Price Index,2022,1,8.1216
+Japan,House Price Index,2022,2,6.6587
+Japan,House Price Index,2022,3,4.8469
+Japan,House Price Index,2022,4,3.5329
+Japan,House Price Index,2023,1,1.0671
+Japan,House Price Index,2023,2,-0.1293
+Japan,House Price Index,2023,3,-0.9750
+Japan,House Price Index,2023,4,-0.8633
+Japan,House Price Index,2024,1,-0.0346
+Japan,House Price Index,2024,2,0.0417
+Japan,House Price Index,2024,3,0.4514
+Japan,House Price Index,2024,4,-0.1393
+Japan,Industrial Production Index,2020,1,98.1146
+Japan,Industrial Production Index,2020,2,80.9218
+Japan,Industrial Production Index,2020,3,88.9410
+Japan,Industrial Production Index,2020,4,96.5654
+Japan,Industrial Production Index,2021,1,97.0514
+Japan,Industrial Production Index,2021,2,95.0770
+Japan,Industrial Production Index,2021,3,93.7708
+Japan,Industrial Production Index,2021,4,97.6286
+Japan,Industrial Production Index,2022,1,96.5654
+Japan,Industrial Production Index,2022,2,91.9787
+Japan,Industrial Production Index,2022,3,97.5071
+Japan,Industrial Production Index,2022,4,97.2945
+Japan,Industrial Production Index,2023,1,94.8947
+Japan,Industrial Production Index,2023,2,92.5558
+Japan,Industrial Production Index,2023,3,93.9531
+Japan,Industrial Production Index,2023,4,96.5351
+Japan,Industrial Production Index,2024,1,91.2192
+Japan,Real GDP,2020,1,"544,313.2000"
+Japan,Real GDP,2020,2,"503,089.5000"
+Japan,Real GDP,2020,3,"530,281.9000"
+Japan,Real GDP,2020,4,"539,391.8000"
+Japan,Real GDP,2021,1,"540,641.0000"
+Japan,Real GDP,2021,2,"544,556.0000"
+Japan,Real GDP,2021,3,"542,226.8000"
+Japan,Real GDP,2021,4,"548,380.5000"
+Japan,Real GDP,2022,1,"545,661.1000"
+Japan,Real GDP,2022,2,"551,449.0000"
+Japan,Real GDP,2022,3,"548,755.4000"
+Japan,Real GDP,2022,4,"550,213.5000"
+Japan,Real GDP,2023,1,"557,152.2000"
+Japan,Real GDP,2023,2,"559,383.0000"
+Japan,Real GDP,2023,3,"553,577.7000"
+Japan,Real GDP,2023,4,"553,308.7000"
+Japan,Real GDP,2024,1,"551,779.2000"
+Japan,Real GDP,2024,2,"555,861.7000"
+Japan,Real GDP,2024,3,"557,451.2000"
+Japan,Real GDP,2024,4,"560,774.2000"
+Japan,Real GDP Growth Rate,2020,1,-1.7612
+Japan,Real GDP Growth Rate,2020,2,-9.6431
+Japan,Real GDP Growth Rate,2020,3,-4.9045
+Japan,Real GDP Growth Rate,2020,4,-0.3954
+Japan,Real GDP Growth Rate,2021,1,-0.6651
+Japan,Real GDP Growth Rate,2021,2,8.2114
+Japan,Real GDP Growth Rate,2021,3,2.2653
+Japan,Real GDP Growth Rate,2021,4,1.6739
+Japan,Real GDP Growth Rate,2022,1,0.9464
+Japan,Real GDP Growth Rate,2022,2,1.2120
+Japan,Real GDP Growth Rate,2022,3,1.2386
+Japan,Real GDP Growth Rate,2022,4,0.3360
+Japan,Real GDP Growth Rate,2023,1,2.1199
+Japan,Real GDP Growth Rate,2023,2,1.3964
+Japan,Real GDP Growth Rate,2023,3,0.8993
+Japan,Real GDP Growth Rate,2023,4,0.5700
+Japan,Real GDP Growth Rate,2024,1,-0.9435
+Japan,Real GDP Growth Rate,2024,2,-0.6656
+Japan,Real GDP Growth Rate,2024,3,0.7176
+Japan,Real GDP Growth Rate,2024,4,1.3450
+Japan,Retail Sales (Value),2020,1,101.2056
+Japan,Retail Sales (Value),2020,2,94.4541
+Japan,Retail Sales (Value),2020,3,101.6047
+Japan,Retail Sales (Value),2020,4,101.5049
+Japan,Retail Sales (Value),2021,1,102.0038
+Japan,Retail Sales (Value),2021,2,100.7400
+Japan,Retail Sales (Value),2021,3,101.1058
+Japan,Retail Sales (Value),2021,4,102.7023
+Japan,Retail Sales (Value),2022,1,102.3032
+Japan,Retail Sales (Value),2022,2,103.6002
+Japan,Retail Sales (Value),2022,3,104.9971
+Japan,Retail Sales (Value),2022,4,106.2277
+Japan,Retail Sales (Value),2023,1,108.8883
+Japan,Retail Sales (Value),2023,2,109.4205
+Japan,Retail Sales (Value),2023,3,112.1144
+Japan,Retail Sales (Value),2023,4,110.5513
+Japan,Retail Sales (Volume),2020,1,-1.2175
+Japan,Retail Sales (Volume),2020,2,1.9265
+Japan,Retail Sales (Volume),2020,3,0.0879
+Japan,Retail Sales (Volume),2020,4,-0.0266
+Japan,Retail Sales (Volume),2021,1,0.1373
+Japan,Retail Sales (Volume),2021,2,0.0457
+Japan,Retail Sales (Volume),2021,3,-0.4919
+Japan,Retail Sales (Volume),2021,4,0.4320
+Japan,Retail Sales (Volume),2022,1,-0.2004
+Japan,Retail Sales (Volume),2022,2,-0.0040
+Japan,Retail Sales (Volume),2022,3,0.3088
+Japan,Retail Sales (Volume),2022,4,-0.1647
+Japan,Retail Sales (Volume),2023,1,0.8021
+Japan,Retail Sales (Volume),2023,2,-0.1000
+Japan,Retail Sales (Volume),2023,3,0.4354
+Japan,Retail Sales (Volume),2023,4,-0.8971
+Japan,Retail Sales (Volume),2024,1,0.2974
+Japan,Retail Sales (Volume),2024,2,0.3722
+Japan,Retail Sales (Volume),2024,3,-0.4478
+Japan,Retail Sales (Volume),2024,4,-0.1329
+Japan,Unemployment Rate,2020,1,2.4333
+Japan,Unemployment Rate,2020,2,2.7333
+Japan,Unemployment Rate,2020,3,2.9667
+Japan,Unemployment Rate,2020,4,3.0667
+Japan,Unemployment Rate,2021,1,2.8667
+Japan,Unemployment Rate,2021,2,2.9000
+Japan,Unemployment Rate,2021,3,2.7667
+Japan,Unemployment Rate,2021,4,2.7333
+Japan,Unemployment Rate,2022,1,2.7000
+Japan,Unemployment Rate,2022,2,2.6000
+Japan,Unemployment Rate,2022,3,2.5333
+Japan,Unemployment Rate,2022,4,2.5333
+Japan,Unemployment Rate,2023,1,2.6000
+Japan,Unemployment Rate,2023,2,2.5333
+Japan,Unemployment Rate,2023,3,2.6000
+Japan,Unemployment Rate,2023,4,2.5667
+Japan,Unemployment Rate,2024,1,2.5667
+Japan,Unemployment Rate,2024,2,2.5667
+Japan,Unemployment Rate,2024,3,2.5000
+Japan,Unemployment Rate,2024,4,2.5000
+UK,CPI (All Items),2020,1,108.5000
+UK,CPI (All Items),2020,2,108.6667
+UK,CPI (All Items),2020,3,109.0667
+UK,CPI (All Items),2020,4,109.2333
+UK,CPI (All Items),2021,1,109.4667
+UK,CPI (All Items),2021,2,110.9333
+UK,CPI (All Items),2021,3,111.9667
+UK,CPI (All Items),2021,4,114.0667
+UK,CPI (All Items),2022,1,115.5000
+UK,CPI (All Items),2022,2,119.7333
+UK,CPI (All Items),2022,3,121.7667
+UK,CPI (All Items),2022,4,124.8000
+UK,CPI (All Items),2023,1,125.8667
+UK,CPI (All Items),2023,2,128.9333
+UK,CPI (All Items),2023,3,129.5000
+UK,CPI (All Items),2023,4,130.1000
+UK,CPI YoY Growth Rate,2020,1,0.0333
+UK,CPI YoY Growth Rate,2020,2,0.0333
+UK,CPI YoY Growth Rate,2020,3,0.1667
+UK,CPI YoY Growth Rate,2020,4,0.0333
+UK,CPI YoY Growth Rate,2021,1,0.0667
+UK,CPI YoY Growth Rate,2021,2,0.5333
+UK,CPI YoY Growth Rate,2021,3,0.3000
+UK,CPI YoY Growth Rate,2021,4,0.6667
+UK,CPI YoY Growth Rate,2022,1,0.5333
+UK,CPI YoY Growth Rate,2022,2,1.1333
+UK,CPI YoY Growth Rate,2022,3,0.5000
+UK,CPI YoY Growth Rate,2022,4,0.8000
+UK,CPI YoY Growth Rate,2023,1,0.4333
+UK,CPI YoY Growth Rate,2023,2,0.6667
+UK,CPI YoY Growth Rate,2023,3,0.2000
+UK,CPI YoY Growth Rate,2023,4,0.1333
+UK,CPI YoY Growth Rate,2024,1,0.1000
+UK,Consumer Confidence Index,2020,1,100.2584
+UK,Consumer Confidence Index,2020,2,97.4740
+UK,Consumer Confidence Index,2020,3,97.8805
+UK,Consumer Confidence Index,2020,4,97.5725
+UK,Consumer Confidence Index,2021,1,99.5128
+UK,Consumer Confidence Index,2021,2,102.3501
+UK,Consumer Confidence Index,2021,3,102.1654
+UK,Consumer Confidence Index,2021,4,100.3695
+UK,Consumer Confidence Index,2022,1,97.4543
+UK,Consumer Confidence Index,2022,2,94.0245
+UK,Consumer Confidence Index,2022,3,92.6718
+UK,Consumer Confidence Index,2022,4,92.7306
+UK,Consumer Confidence Index,2023,1,94.4236
+UK,Consumer Confidence Index,2023,2,97.0692
+UK,Consumer Confidence Index,2023,3,97.7921
+UK,Consumer Confidence Index,2023,4,98.0518
+UK,Consumer Confidence Index,2024,1,99.0728
+UK,Foreign Trade Exports,2020,1,14.2652
+UK,Foreign Trade Exports,2020,2,12.9009
+UK,Foreign Trade Exports,2020,3,13.6648
+UK,Foreign Trade Exports,2020,4,14.6839
+UK,Foreign Trade Exports,2021,1,13.1819
+UK,Foreign Trade Exports,2021,2,13.7057
+UK,Foreign Trade Exports,2021,3,13.4569
+UK,Foreign Trade Exports,2021,4,14.1235
+UK,Foreign Trade Exports,2022,1,13.9438
+UK,Foreign Trade Exports,2022,2,14.8367
+UK,Foreign Trade Exports,2022,3,15.5745
+UK,Foreign Trade Exports,2022,4,14.9784
+UK,Foreign Trade Exports,2023,1,14.0688
+UK,Foreign Trade Exports,2023,2,13.6100
+UK,Foreign Trade Exports,2023,3,13.1141
+UK,Foreign Trade Imports,2020,1,19.3125
+UK,Foreign Trade Imports,2020,2,18.0137
+UK,Foreign Trade Imports,2020,3,20.1237
+UK,Foreign Trade Imports,2020,4,22.5875
+UK,Foreign Trade Imports,2021,1,19.6087
+UK,Foreign Trade Imports,2021,2,20.7208
+UK,Foreign Trade Imports,2021,3,21.1313
+UK,Foreign Trade Imports,2021,4,22.2523
+UK,Foreign Trade Imports,2022,1,24.4312
+UK,Foreign Trade Imports,2022,2,25.4763
+UK,Foreign Trade Imports,2022,3,25.2169
+UK,Foreign Trade Imports,2022,4,25.2174
+UK,Foreign Trade Imports,2023,1,22.2691
+UK,Foreign Trade Imports,2023,2,21.9249
+UK,Foreign Trade Imports,2023,3,20.2172
+UK,Government Debt to GDP Ratio,2020,1,196.6406
+UK,Government Debt to GDP Ratio,2021,1,186.7949
+UK,Government Debt to GDP Ratio,2022,1,141.2444
+UK,Government Debt to GDP Ratio,2023,1,138.6443
+UK,House Price Index,2020,1,112.1297
+UK,House Price Index,2020,2,112.3348
+UK,House Price Index,2020,3,115.1981
+UK,House Price Index,2020,4,118.3291
+UK,House Price Index,2021,1,119.9913
+UK,House Price Index,2021,2,120.4420
+UK,House Price Index,2021,3,121.4089
+UK,House Price Index,2021,4,121.0006
+UK,House Price Index,2022,1,122.2217
+UK,House Price Index,2022,2,120.1854
+UK,House Price Index,2022,3,122.4408
+UK,House Price Index,2022,4,119.1114
+UK,House Price Index,2023,1,115.3541
+UK,House Price Index,2023,2,111.8532
+UK,House Price Index,2023,3,113.4931
+UK,House Price Index,2023,4,111.5411
+UK,House Price Index,2024,1,109.9391
+UK,House Price Index,2024,2,109.9853
+UK,House Price Index,2024,3,112.3167
+UK,House Price Index,2024,4,112.0351
+UK,Real GDP,2020,1,"559,365.0000"
+UK,Real GDP,2020,2,"481,227.0000"
+UK,Real GDP,2020,3,"540,319.0000"
+UK,Real GDP,2020,4,"543,809.0000"
+UK,Real GDP,2021,1,"545,116.0000"
+UK,Real GDP,2021,2,"576,525.0000"
+UK,Real GDP,2021,3,"592,707.0000"
+UK,Real GDP,2021,4,"608,304.0000"
+UK,Real GDP,2022,1,"623,014.0000"
+UK,Real GDP,2022,2,"639,293.0000"
+UK,Real GDP,2022,3,"650,233.0000"
+UK,Real GDP,2022,4,"668,409.0000"
+UK,Real GDP,2023,1,"679,194.0000"
+UK,Real GDP,2023,2,"689,618.0000"
+UK,Real GDP,2023,3,"692,982.0000"
+UK,Real GDP,2023,4,"690,370.0000"
+UK,Real GDP,2024,1,"706,118.0000"
+UK,Real GDP,2024,2,"714,628.0000"
+UK,Real GDP,2024,3,"727,181.0000"
+UK,Real GDP,2024,4,"736,079.0000"
+UK,Real GDP Growth Rate,2020,1,-2.7449
+UK,Real GDP Growth Rate,2020,2,-19.9062
+UK,Real GDP Growth Rate,2020,3,16.9647
+UK,Real GDP Growth Rate,2020,4,1.3680
+UK,Real GDP Growth Rate,2021,1,-1.0762
+UK,Real GDP Growth Rate,2021,2,6.9823
+UK,Real GDP Growth Rate,2021,3,1.6866
+UK,Real GDP Growth Rate,2021,4,1.3776
+UK,Real GDP Growth Rate,2022,1,1.0133
+UK,Real GDP Growth Rate,2022,2,0.5579
+UK,Real GDP Growth Rate,2022,3,0.1011
+UK,Real GDP Growth Rate,2022,4,0.2603
+UK,Real GDP Growth Rate,2023,1,0.0565
+UK,Real GDP Growth Rate,2023,2,0.0414
+UK,Real GDP Growth Rate,2023,3,-0.2396
+UK,Real GDP Growth Rate,2023,4,-0.3214
+UK,Real GDP Growth Rate,2024,1,0.8400
+UK,Real GDP Growth Rate,2024,2,0.6373
+UK,Real GDP Growth Rate,2024,3,0.1955
+UK,Real GDP Growth Rate,2024,4,0.2408
+UK,Retail Sales (Value),2020,1,115.0451
+UK,Retail Sales (Value),2020,2,105.6941
+UK,Retail Sales (Value),2020,3,123.6201
+UK,Retail Sales (Value),2020,4,123.7753
+UK,Retail Sales (Value),2021,1,115.3555
+UK,Retail Sales (Value),2021,2,127.9659
+UK,Retail Sales (Value),2021,3,125.8706
+UK,Retail Sales (Value),2021,4,128.0435
+UK,Retail Sales (Value),2022,1,128.3151
+UK,Retail Sales (Value),2022,2,128.8195
+UK,Retail Sales (Value),2022,3,130.7983
+UK,Retail Sales (Value),2022,4,131.6908
+UK,Retail Sales (Value),2023,1,133.9412
+UK,Retail Sales (Value),2023,2,137.5109
+UK,Retail Sales (Value),2023,3,137.9765
+UK,Retail Sales (Value),2023,4,138.9854
+UK,Retail Sales (Volume),2020,1,-1.7805
+UK,Retail Sales (Volume),2020,2,3.2074
+UK,Retail Sales (Volume),2020,3,1.9648
+UK,Retail Sales (Volume),2020,4,-0.7313
+UK,Retail Sales (Volume),2021,1,-1.0362
+UK,Retail Sales (Volume),2021,2,2.2053
+UK,Retail Sales (Volume),2021,3,-0.9539
+UK,Retail Sales (Volume),2021,4,0.0021
+UK,Retail Sales (Volume),2022,1,-0.9902
+UK,Retail Sales (Volume),2022,2,-0.6655
+UK,Retail Sales (Volume),2022,3,-0.9070
+UK,Retail Sales (Volume),2022,4,-0.0974
+UK,Retail Sales (Volume),2023,1,-0.0963
+UK,Retail Sales (Volume),2023,2,0.5014
+UK,Retail Sales (Volume),2023,3,-0.8923
+UK,Retail Sales (Volume),2023,4,-0.6854
+UK,Retail Sales (Volume),2024,1,1.0094
+UK,Retail Sales (Volume),2024,2,-0.0415
+UK,Retail Sales (Volume),2024,3,0.3679
+UK,Retail Sales (Volume),2024,4,-0.4325
+UK,Unemployment Rate,2020,1,4.0333
+UK,Unemployment Rate,2020,2,4.2000
+UK,Unemployment Rate,2020,3,4.9333
+UK,Unemployment Rate,2020,4,5.2333
+UK,Unemployment Rate,2021,1,4.9000
+UK,Unemployment Rate,2021,2,4.7000
+UK,Unemployment Rate,2021,3,4.4000
+UK,Unemployment Rate,2021,4,4.1667
+UK,Unemployment Rate,2022,1,3.8333
+UK,Unemployment Rate,2022,2,3.7000
+UK,Unemployment Rate,2022,3,3.7000
+UK,Unemployment Rate,2022,4,3.9000
+UK,Unemployment Rate,2023,1,3.9667
+UK,Unemployment Rate,2023,2,4.1667
+UK,Unemployment Rate,2023,3,4.1333
+UK,Unemployment Rate,2023,4,4.0000
+UK,Unemployment Rate,2024,1,4.3000
+UK,Unemployment Rate,2024,2,4.2667
+UK,Unemployment Rate,2024,3,4.2333
+UK,Unemployment Rate,2024,4,4.4000
+US,CPI (All Items),2020,1,258.8177
+US,CPI (All Items),2020,2,256.2920
+US,CPI (All Items),2020,3,259.2217
+US,CPI (All Items),2020,4,261.0917
+US,CPI (All Items),2021,1,263.6863
+US,CPI (All Items),2021,2,268.5797
+US,CPI (All Items),2021,3,272.8863
+US,CPI (All Items),2021,4,278.7193
+US,CPI (All Items),2022,1,284.8447
+US,CPI (All Items),2022,2,291.6510
+US,CPI (All Items),2022,3,295.5077
+US,CPI (All Items),2022,4,298.4983
+US,CPI (All Items),2023,1,301.1917
+US,CPI (All Items),2023,2,303.4243
+US,CPI (All Items),2023,3,306.0423
+US,CPI (All Items),2023,4,308.1583
+US,CPI (All Items),2024,1,310.9743
+US,CPI (All Items),2024,2,313.0957
+US,CPI (All Items),2024,3,314.1827
+US,CPI (All Items),2024,4,316.5387
+US,CPI YoY Growth Rate,2020,1,0.1481
+US,CPI YoY Growth Rate,2020,2,-0.0398
+US,CPI YoY Growth Rate,2020,3,0.3201
+US,CPI YoY Growth Rate,2020,4,0.0249
+US,CPI YoY Growth Rate,2021,1,0.5604
+US,CPI YoY Growth Rate,2021,2,0.8509
+US,CPI YoY Growth Rate,2021,3,0.3197
+US,CPI YoY Growth Rate,2021,4,0.5431
+US,CPI YoY Growth Rate,2022,1,1.0300
+US,CPI YoY Growth Rate,2022,2,1.0114
+US,CPI YoY Growth Rate,2022,3,0.0559
+US,CPI YoY Growth Rate,2022,4,-0.0008
+US,CPI YoY Growth Rate,2023,1,0.5629
+US,CPI YoY Growth Rate,2023,2,0.3602
+US,CPI YoY Growth Rate,2023,3,0.2920
+US,CPI YoY Growth Rate,2023,4,-0.1131
+US,CPI YoY Growth Rate,2024,1,0.6034
+US,Consumer Confidence Index,2020,1,100.9873
+US,Consumer Confidence Index,2020,2,98.7920
+US,Consumer Confidence Index,2020,3,98.8469
+US,Consumer Confidence Index,2020,4,99.2349
+US,Consumer Confidence Index,2021,1,99.4393
+US,Consumer Confidence Index,2021,2,99.8561
+US,Consumer Confidence Index,2021,3,98.7732
+US,Consumer Confidence Index,2021,4,98.0710
+US,Consumer Confidence Index,2022,1,97.4435
+US,Consumer Confidence Index,2022,2,96.6271
+US,Consumer Confidence Index,2022,3,96.4464
+US,Consumer Confidence Index,2022,4,96.9039
+US,Consumer Confidence Index,2023,1,97.3920
+US,Consumer Confidence Index,2023,2,97.3639
+US,Consumer Confidence Index,2023,3,97.8597
+US,Consumer Confidence Index,2023,4,97.7281
+US,Consumer Confidence Index,2024,1,98.9130
+US,Foreign Trade Exports,2020,1,7.3449
+US,Foreign Trade Exports,2020,2,5.7976
+US,Foreign Trade Exports,2020,3,6.5949
+US,Foreign Trade Exports,2020,4,6.9814
+US,Foreign Trade Exports,2021,1,7.2840
+US,Foreign Trade Exports,2021,2,7.4171
+US,Foreign Trade Exports,2021,3,7.3832
+US,Foreign Trade Exports,2021,4,7.6989
+US,Foreign Trade Exports,2022,1,7.7634
+US,Foreign Trade Exports,2022,2,8.2792
+US,Foreign Trade Exports,2022,3,8.2825
+US,Foreign Trade Exports,2022,4,7.7613
+US,Foreign Trade Exports,2023,1,7.7278
+US,Foreign Trade Exports,2023,2,7.2206
+US,Foreign Trade Exports,2023,3,7.3600
+US,Foreign Trade Imports,2020,1,10.9260
+US,Foreign Trade Imports,2020,2,10.2191
+US,Foreign Trade Imports,2020,3,11.0289
+US,Foreign Trade Imports,2020,4,11.4838
+US,Foreign Trade Imports,2021,1,11.8362
+US,Foreign Trade Imports,2021,2,11.9314
+US,Foreign Trade Imports,2021,3,11.8941
+US,Foreign Trade Imports,2021,4,12.2782
+US,Foreign Trade Imports,2022,1,13.0461
+US,Foreign Trade Imports,2022,2,13.0892
+US,Foreign Trade Imports,2022,3,12.4006
+US,Foreign Trade Imports,2022,4,11.8817
+US,Foreign Trade Imports,2023,1,11.6677
+US,Foreign Trade Imports,2023,2,11.3243
+US,Foreign Trade Imports,2023,3,11.1629
+US,Government Debt to GDP Ratio,2020,1,124.5147
+US,Government Debt to GDP Ratio,2021,1,118.4009
+US,Government Debt to GDP Ratio,2022,1,112.8176
+US,Government Debt to GDP Ratio,2023,1,114.7556
+US,House Price Index,2020,1,133.7843
+US,House Price Index,2020,2,135.5990
+US,House Price Index,2020,3,138.3964
+US,House Price Index,2020,4,143.2785
+US,House Price Index,2021,1,146.2313
+US,House Price Index,2021,2,149.5961
+US,House Price Index,2021,3,153.4833
+US,House Price Index,2021,4,157.1718
+US,House Price Index,2022,1,160.2324
+US,House Price Index,2022,2,159.9840
+US,House Price Index,2022,3,156.9857
+US,House Price Index,2022,4,157.0991
+US,House Price Index,2023,1,157.1249
+US,House Price Index,2023,2,157.1999
+US,House Price Index,2023,3,158.8479
+US,House Price Index,2023,4,160.7135
+US,House Price Index,2024,1,160.5004
+US,House Price Index,2024,2,159.5373
+US,House Price Index,2024,3,160.4240
+US,House Price Index,2024,4,161.6651
+US,Industrial Production Index,2020,1,99.9786
+US,Industrial Production Index,2020,2,87.4555
+US,Industrial Production Index,2020,3,95.6082
+US,Industrial Production Index,2020,4,97.2275
+US,Industrial Production Index,2021,1,97.5045
+US,Industrial Production Index,2021,2,99.0556
+US,Industrial Production Index,2021,3,99.7012
+US,Industrial Production Index,2021,4,100.9391
+US,Industrial Production Index,2022,1,101.9112
+US,Industrial Production Index,2022,2,102.8969
+US,Industrial Production Index,2022,3,103.2511
+US,Industrial Production Index,2022,4,102.7922
+US,Industrial Production Index,2023,1,102.7874
+US,Industrial Production Index,2023,2,102.8620
+US,Industrial Production Index,2023,3,103.1585
+US,Industrial Production Index,2023,4,102.6986
+US,Industrial Production Index,2024,1,102.2428
+US,Industrial Production Index,2024,2,102.8633
+US,Industrial Production Index,2024,3,102.7114
+US,Industrial Production Index,2024,4,102.4029
+US,Real GDP,2020,1,"20,709.2120"
+US,Real GDP,2020,2,"19,077.9920"
+US,Real GDP,2020,3,"20,558.8790"
+US,Real GDP,2020,4,"20,791.9170"
+US,Real GDP,2021,1,"21,082.1340"
+US,Real GDP,2021,2,"21,440.9290"
+US,Real GDP,2021,3,"21,617.8280"
+US,Real GDP,2021,4,"21,988.7370"
+US,Real GDP,2022,1,"21,932.7100"
+US,Real GDP,2022,2,"21,967.0450"
+US,Real GDP,2022,3,"22,125.6250"
+US,Real GDP,2022,4,"22,278.3450"
+US,Real GDP,2023,1,"22,439.6070"
+US,Real GDP,2023,2,"22,580.4990"
+US,Real GDP,2023,3,"22,840.9890"
+US,Real GDP,2023,4,"23,033.7800"
+US,Real GDP,2024,1,"23,082.1190"
+US,Real GDP,2024,2,"23,286.5080"
+US,Real GDP,2024,3,"23,478.5700"
+US,Real GDP,2024,4,"23,586.5420"
+US,Real GDP Growth Rate,2020,1,-5.2000
+US,Real GDP Growth Rate,2020,2,-28.0000
+US,Real GDP Growth Rate,2020,3,34.9000
+US,Real GDP Growth Rate,2020,4,4.6000
+US,Real GDP Growth Rate,2021,1,5.7000
+US,Real GDP Growth Rate,2021,2,7.0000
+US,Real GDP Growth Rate,2021,3,3.3000
+US,Real GDP Growth Rate,2021,4,7.0000
+US,Real GDP Growth Rate,2022,1,-1.0000
+US,Real GDP Growth Rate,2022,2,0.6000
+US,Real GDP Growth Rate,2022,3,2.9000
+US,Real GDP Growth Rate,2022,4,2.8000
+US,Real GDP Growth Rate,2023,1,2.9000
+US,Real GDP Growth Rate,2023,2,2.5000
+US,Real GDP Growth Rate,2023,3,4.7000
+US,Real GDP Growth Rate,2023,4,3.4000
+US,Real GDP Growth Rate,2024,1,0.8000
+US,Real GDP Growth Rate,2024,2,3.6000
+US,Real GDP Growth Rate,2024,3,3.3000
+US,Real GDP Growth Rate,2024,4,1.9000
+US,Retail Sales (Value),2020,1,"464,335,833,333.3329"
+US,Retail Sales (Value),2021,1,"543,551,000,000.0000"
+US,Retail Sales (Value),2022,1,"591,252,000,000.0000"
+US,Retail Sales (Volume),2020,1,-0.7993
+US,Retail Sales (Volume),2020,2,-4.0962
+US,Retail Sales (Volume),2020,3,5.4298
+US,Retail Sales (Volume),2020,4,6.1563
+US,Retail Sales (Volume),2021,1,14.2529
+US,Retail Sales (Volume),2021,2,22.4938
+US,Retail Sales (Volume),2021,3,6.2677
+US,Retail Sales (Volume),2021,4,6.5826
+US,Retail Sales (Volume),2022,1,2.9186
+US,Retail Sales (Volume),2022,2,-0.6611
+US,Retail Sales (Volume),2022,3,0.5658
+US,Retail Sales (Volume),2022,4,-1.7008
+US,Retail Sales (Volume),2023,1,-2.1657
+US,Retail Sales (Volume),2023,2,-3.1934
+US,Retail Sales (Volume),2023,3,-1.0288
+US,Retail Sales (Volume),2023,4,-0.1646
+US,Retail Sales (Volume),2024,1,-1.9673
+US,Retail Sales (Volume),2024,2,-1.0394
+US,Retail Sales (Volume),2024,3,-0.6865
+US,Retail Sales (Volume),2024,4,1.0898
+US,Unemployment Rate,2020,1,3.8333
+US,Unemployment Rate,2020,2,13.0000
+US,Unemployment Rate,2020,3,8.8000
+US,Unemployment Rate,2020,4,6.7667
+US,Unemployment Rate,2021,1,6.2333
+US,Unemployment Rate,2021,2,5.9333
+US,Unemployment Rate,2021,3,5.0667
+US,Unemployment Rate,2021,4,4.2000
+US,Unemployment Rate,2022,1,3.8333
+US,Unemployment Rate,2022,2,3.6333
+US,Unemployment Rate,2022,3,3.5333
+US,Unemployment Rate,2022,4,3.5667
+US,Unemployment Rate,2023,1,3.5333
+US,Unemployment Rate,2023,2,3.5333
+US,Unemployment Rate,2023,3,3.6667
+US,Unemployment Rate,2023,4,3.8000
+US,Unemployment Rate,2024,1,3.8333
+US,Unemployment Rate,2024,2,4.0000
+US,Unemployment Rate,2024,3,4.1667
+US,Unemployment Rate,2024,4,4.1333

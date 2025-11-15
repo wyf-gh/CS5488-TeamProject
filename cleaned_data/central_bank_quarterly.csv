@@ -1,0 +1,161 @@
+Region,Indicator,Year,Quarter,Value
+China,Foreign Exchange Reserves,2020,1,3113538.3918
+China,Foreign Exchange Reserves,2020,2,3121946.0751
+China,Foreign Exchange Reserves,2020,3,3174892.0327
+China,Foreign Exchange Reserves,2020,4,3195786.7608
+China,Foreign Exchange Reserves,2021,1,3217276.7693
+China,Foreign Exchange Reserves,2021,2,3233171.4453
+China,Foreign Exchange Reserves,2021,3,3272344.4939
+China,Foreign Exchange Reserves,2021,4,3293932.148
+China,Foreign Exchange Reserves,2022,1,3271833.5867
+China,Foreign Exchange Reserves,2022,2,3168543.5527
+China,Foreign Exchange Reserves,2022,3,3123900.8298
+China,Foreign Exchange Reserves,2022,4,3160538.9194
+China,Foreign Exchange Reserves,2023,1,3230089.325
+China,Foreign Exchange Reserves,2023,2,3254101.7913
+China,Foreign Exchange Reserves,2023,3,3221661.3627
+China,Foreign Exchange Reserves,2023,4,3233055.603
+China,Foreign Exchange Reserves,2024,1,3293422.6231
+China,Foreign Exchange Reserves,2024,2,3281422.0685
+China,Foreign Exchange Reserves,2024,3,3351389.389
+China,Foreign Exchange Reserves,2024,4,3306224.3917
+China,Interest Rate,2020,1,2.9
+China,Interest Rate,2020,2,2.9
+China,Interest Rate,2020,3,2.9
+China,Interest Rate,2020,4,2.9
+China,Interest Rate,2021,1,2.9
+China,Interest Rate,2021,2,2.9
+China,Interest Rate,2021,3,2.9
+China,Interest Rate,2021,4,2.9
+China,Interest Rate,2022,1,2.9
+China,Interest Rate,2022,2,2.9
+China,Interest Rate,2022,3,2.9
+China,Interest Rate,2022,4,2.9
+China,Interest Rate,2023,1,2.9
+China,Interest Rate,2023,2,2.9
+China,Interest Rate,2023,3,2.9
+China,Interest Rate,2023,4,2.9
+China,Interest Rate,2024,1,2.9
+China,Interest Rate,2024,2,2.9
+China,Interest Rate,2024,3,2.9
+China,Interest Rate,2024,4,2.9
+Japan,Foreign Exchange Reserve,2020,1,1315093.299
+Japan,Foreign Exchange Reserve,2020,2,1330949.1816
+Japan,Foreign Exchange Reserve,2020,3,1345668.0727
+Japan,Foreign Exchange Reserve,2020,4,1338781.3576
+Japan,Foreign Exchange Reserve,2021,1,1331226.0765
+Japan,Foreign Exchange Reserve,2021,2,1327732.9745
+Japan,Foreign Exchange Reserve,2021,3,1354094.8559
+Japan,Foreign Exchange Reserve,2021,4,1355180.8766
+Japan,Foreign Exchange Reserve,2022,1,1324325.3065
+Japan,Foreign Exchange Reserve,2022,2,1270559.5958
+Japan,Foreign Exchange Reserve,2022,3,1237775.4344
+Japan,Foreign Exchange Reserve,2022,4,1168967.2272
+Japan,Foreign Exchange Reserve,2023,1,1192508.8592
+Japan,Foreign Exchange Reserve,2023,2,1202580.6335
+Japan,Foreign Exchange Reserve,2023,3,1194927.3329
+Japan,Foreign Exchange Reserve,2023,4,1212189.549
+Japan,Foreign Exchange Reserve,2024,1,1230700.4071
+Japan,Foreign Exchange Reserve,2024,2,1184008.5827
+Japan,Foreign Exchange Reserve,2024,3,1167945.6423
+Japan,Foreign Exchange Reserve,2024,4,1163726.1998
+Japan,Interest Rate,2020,1,-0.0317
+Japan,Interest Rate,2020,2,-0.0437
+Japan,Interest Rate,2020,3,-0.039
+Japan,Interest Rate,2020,4,-0.026
+Japan,Interest Rate,2021,1,-0.0167
+Japan,Interest Rate,2021,2,-0.0193
+Japan,Interest Rate,2021,3,-0.0307
+Japan,Interest Rate,2021,4,-0.0307
+Japan,Interest Rate,2022,1,-0.0153
+Japan,Interest Rate,2022,2,-0.0227
+Japan,Interest Rate,2022,3,-0.0263
+Japan,Interest Rate,2022,4,-0.0623
+Japan,Interest Rate,2023,1,-0.0187
+Japan,Interest Rate,2023,2,-0.044
+Japan,Interest Rate,2023,3,-0.0547
+Japan,Interest Rate,2023,4,-0.0157
+Japan,Interest Rate,2024,1,7.0E-4
+Japan,Interest Rate,2024,2,0.077
+Japan,Interest Rate,2024,3,0.1773
+Japan,Interest Rate,2024,4,0.227
+UK,Foreign Exchange Reserves,2020,1,152897.3808
+UK,Foreign Exchange Reserves,2020,2,156339.5696
+UK,Foreign Exchange Reserves,2020,3,155273.8214
+UK,Foreign Exchange Reserves,2020,4,158507.5041
+UK,Foreign Exchange Reserves,2021,1,154362.1995
+UK,Foreign Exchange Reserves,2021,2,152215.6204
+UK,Foreign Exchange Reserves,2021,3,167106.3355
+UK,Foreign Exchange Reserves,2021,4,175278.5932
+UK,Foreign Exchange Reserves,2022,1,169547.9883
+UK,Foreign Exchange Reserves,2022,2,159490.0721
+UK,Foreign Exchange Reserves,2022,3,150421.3805
+UK,Foreign Exchange Reserves,2022,4,153974.0505
+UK,Foreign Exchange Reserves,2023,1,153900.3854
+UK,Foreign Exchange Reserves,2023,2,153891.8877
+UK,Foreign Exchange Reserves,2023,3,155989.6394
+UK,Foreign Exchange Reserves,2023,4,154435.0205
+UK,Foreign Exchange Reserves,2024,1,153436.9349
+UK,Foreign Exchange Reserves,2024,2,149735.2314
+UK,Foreign Exchange Reserves,2024,3,154239.2736
+UK,Foreign Exchange Reserves,2024,4,150198.6022
+UK,Interest Rate,2020,1,0.6733
+UK,Interest Rate,2020,2,0.39
+UK,Interest Rate,2020,3,0.0767
+UK,Interest Rate,2020,4,0.04
+UK,Interest Rate,2021,1,0.0533
+UK,Interest Rate,2021,2,0.0833
+UK,Interest Rate,2021,3,0.0733
+UK,Interest Rate,2021,4,0.15
+UK,Interest Rate,2022,1,0.7767
+UK,Interest Rate,2022,2,1.3367
+UK,Interest Rate,2022,3,2.3267
+UK,Interest Rate,2022,4,3.5633
+UK,Interest Rate,2023,1,4.1833
+UK,Interest Rate,2023,2,4.78
+UK,Interest Rate,2023,3,5.5133
+UK,Interest Rate,2023,4,5.3267
+UK,Interest Rate,2024,1,5.2033
+UK,Interest Rate,2024,2,5.1667
+UK,Interest Rate,2024,3,4.9467
+UK,Interest Rate,2024,4,4.69
+US,Foreign Exchange Reserves,2020,1,117359.7459
+US,Foreign Exchange Reserves,2020,2,120602.3447
+US,Foreign Exchange Reserves,2020,3,128732.4238
+US,Foreign Exchange Reserves,2020,4,130812.0736
+US,Foreign Exchange Reserves,2021,1,131113.7033
+US,Foreign Exchange Reserves,2021,2,129997.3849
+US,Foreign Exchange Reserves,2021,3,203724.6957
+US,Foreign Exchange Reserves,2021,4,240256.9447
+US,Foreign Exchange Reserves,2022,1,238755.9913
+US,Foreign Exchange Reserves,2022,2,229573.6371
+US,Foreign Exchange Reserves,2022,3,223058.6166
+US,Foreign Exchange Reserves,2022,4,227698.9315
+US,Foreign Exchange Reserves,2023,1,234815.6448
+US,Foreign Exchange Reserves,2023,2,233528.4119
+US,Foreign Exchange Reserves,2023,3,232225.8688
+US,Foreign Exchange Reserves,2023,4,232043.4349
+US,Foreign Exchange Reserves,2024,1,232790.4899
+US,Foreign Exchange Reserves,2024,2,231218.3006
+US,Foreign Exchange Reserves,2024,3,237270.6448
+US,Foreign Exchange Reserves,2024,4,230355.6334
+US,Interest Rate,2020,1,1.26
+US,Interest Rate,2020,2,0.06
+US,Interest Rate,2020,3,0.0933
+US,Interest Rate,2020,4,0.09
+US,Interest Rate,2021,1,0.08
+US,Interest Rate,2021,2,0.07
+US,Interest Rate,2021,3,0.09
+US,Interest Rate,2021,4,0.08
+US,Interest Rate,2022,1,0.12
+US,Interest Rate,2022,2,0.77
+US,Interest Rate,2022,3,2.19
+US,Interest Rate,2022,4,3.6533
+US,Interest Rate,2023,1,4.5167
+US,Interest Rate,2023,2,4.99
+US,Interest Rate,2023,3,5.26
+US,Interest Rate,2023,4,5.33
+US,Interest Rate,2024,1,5.33
+US,Interest Rate,2024,2,5.33
+US,Interest Rate,2024,3,5.2633
+US,Interest Rate,2024,4,4.65
