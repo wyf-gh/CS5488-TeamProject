@@ -1,5 +1,5 @@
 *.py linguist-language=Python
-*.sql linguist-language=MySQL
+*.sql linguist-language=SQL
 *.sh linguist-language=Shell
 *.pig linguist-language=Pig
 *.html linguist-language=HTML
