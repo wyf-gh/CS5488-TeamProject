@@ -1,4 +1,3 @@
 *.py linguist-language=Python
-*.sql linguist-language=SQL
-*.sh linguist-language=Shell
-*.pig linguist-language=Pig
+*.css linguist-language=Python
+*.html linguist-language=HTML
